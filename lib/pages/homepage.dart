@@ -7,7 +7,9 @@ class homePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: SafeArea(
-        child: Text('this is homepage bruh'),
+        child: Image.asset(
+          'assets/images/main_cover.png',
+        ),
       ),
     );
   }
