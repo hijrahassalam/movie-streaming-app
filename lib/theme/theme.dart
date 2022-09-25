@@ -13,7 +13,7 @@ TextStyle headerText = TextStyle(
 TextStyle titleText = TextStyle(
   color: darkBlueColor,
   fontSize: 20,
-  fontWeight: FontWeight.normal,
+  fontWeight: FontWeight.bold,
 );
 
 TextStyle subtitleText = TextStyle(
