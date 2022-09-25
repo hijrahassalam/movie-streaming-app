@@ -95,7 +95,10 @@ class searchPage extends StatelessWidget {
                             'The Dark II',
                             style: titleText,
                           ),
-                          Text('Horror'),
+                          Text(
+                            'Horror',
+                            style: subtitleText,
+                          ),
                           SizedBox(
                             height: 20,
                           ),
@@ -158,7 +161,10 @@ class searchPage extends StatelessWidget {
                             'The Dark Knight',
                             style: titleText,
                           ),
-                          Text('Heroes'),
+                          Text(
+                            'Heroes',
+                            style: subtitleText,
+                          ),
                           SizedBox(
                             height: 20,
                           ),
@@ -221,7 +227,10 @@ class searchPage extends StatelessWidget {
                             'The Dark Tower',
                             style: titleText,
                           ),
-                          Text('Action'),
+                          Text(
+                            'Action',
+                            style: subtitleText,
+                          ),
                           SizedBox(
                             height: 20,
                           ),

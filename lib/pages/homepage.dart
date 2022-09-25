@@ -94,9 +94,7 @@ class homePage extends StatelessWidget {
                               ),
                               Text(
                                 'Action, Crime',
-                                style: TextStyle(
-                                  fontWeight: FontWeight.w300,
-                                ),
+                                style: subtitleText,
                               ),
                             ],
                           ),
@@ -163,7 +161,10 @@ class homePage extends StatelessWidget {
                                 'Mulan Session',
                                 style: titleText,
                               ),
-                              Text('History, War'),
+                              Text(
+                                'History, War',
+                                style: subtitleText,
+                              ),
                               SizedBox(
                                 height: 20,
                               ),
@@ -226,7 +227,10 @@ class homePage extends StatelessWidget {
                                 'Beauty & Beast',
                                 style: titleText,
                               ),
-                              Text('Sci-Fiction'),
+                              Text(
+                                'Sci-Fiction',
+                                style: subtitleText,
+                              ),
                               SizedBox(
                                 height: 20,
                               ),

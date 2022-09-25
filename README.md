@@ -1,16 +1,16 @@
-# moviez_streaming
+# Movie Streaming Apps
 
-A new Flutter project.
+A simple Flutter UI Sclicing. This slicing is dedicated to apply **Junior Flutter Developer** at [BuildWithAngga](https://buildwithangga.com).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone this repository
+- Run `pub get` in your terminal
+- Make sure your emulator already started
+- Run the project by pressing `F5` or type `flutter run` in terminal
 
-A few resources to get you started if this is your first Flutter project:
+## UI Preview
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home Page                                                       | Search Page                                                       |
+| --------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <img src="assets/images/homepage.png" width="100" height="200"> | <img src="assets/images/searchpage.png" width="100" height="200"> |
